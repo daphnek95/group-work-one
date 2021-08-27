@@ -1,0 +1,80 @@
+/*=========================
+
+Universal Styling
+
+*=========================*/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Roboto',sans-serif;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+/*=======================
+Main Body Copy Styling
+=========================*/
+
+
+.body-heading{
+  text-align: left;
+  text-decoration: underline;
+  color: darkred;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.about-body{
+  clear: both;
+  text-align: left;
+  color: black;
+  margin-top: 2%;
+  position: relative;
+  margin-left: 10%;
+}
+
+.harrypotter{
+  max-width: 400px;
+  max-height: 400px;
+  float: right;
+  position: relative;
+  margin-right: 20%;
+}
+
+.body-title{
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 1%;
+}
+
+.daniel-body{
+  clear: both;
+  text-align: left;
+  color: black;
+  margin-top: 2%;
+  position: relative;
+  margin-left: 10%;
+  }
+
+.danielradcliffe{
+  clear: both;
+  max-width: 400px;
+  max-height: 400px;
+  float: right;
+  position: relative;
+  margin-right: 20%;
+  margin-top: 3%;
+  margin-bottom: 1%;
+}
+
+p{
+  font-size: 14px;
+  max-width: 500px;
+  margin-bottom: 1%;
+}
