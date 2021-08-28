@@ -78,3 +78,59 @@ p{
   max-width: 500px;
   margin-bottom: 1%;
 }
+
+/* Nav background */
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: #3a3a66;
+    padding: 10;
+}
+.topnav {
+    background-color: rgb(126, 125, 125);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #944646;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+
+/* Hedwig article*/
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
+}
+
+
+.Hedwig{
+    margin: 100px;
+    padding: 20px;
+    border: 20px;
+    background-color: rgb(187, 187, 187);
+    font: 1rem 'Fira Sans', sans-serif;
+    position: relative;
+
+}
+
+.Hedwig h2{
+    color:#3a3a66;
+    text-shadow: 2px 2px seashell;
+}
+
+.Hedwig figcaption{
+    color: white;
+    font-style: italic;
+    font-size: 12px;
+}
