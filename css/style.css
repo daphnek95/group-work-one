@@ -14,7 +14,7 @@ Universal Styling
 
 html{
   scroll-behavior: smooth;
-  background: url(gw1_start_files/images/clouds_background.jpg);
+  background: url(../gw1_start_files/images/clouds_background.jpg);
 }
 
 body {
