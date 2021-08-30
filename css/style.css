@@ -55,6 +55,12 @@ Main Body Copy Styling
   margin-right: 15%;
 }
 
+.harrypotter figcaption{
+  color: darkred;
+  font-style: italic;
+  font-size: 12px;
+}
+
 .body-title{
   text-align: left;
   font-size: 18px;
@@ -79,6 +85,12 @@ Main Body Copy Styling
   margin-right: 15%;
   margin-top: 3%;
   margin-bottom: 1%;
+}
+
+.danielradcliffe figcaption{
+  color: darkred;
+  font-style: italic;
+  font-size: 12px;
 }
 
 p{
@@ -146,4 +158,19 @@ h1{
     font-style: italic;
     font-size: 12px;
     text-align: center;
+}
+
+/*=======================
+Footer Styling
+=========================*/
+
+.footer{
+  text-align: center;
+  color: white;
+  background-color: darkred;
+  font-size: 18px;
+  font-weight: lighter;
+  font-style: italic;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
 }
