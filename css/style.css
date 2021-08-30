@@ -55,7 +55,7 @@ Main Body Copy Styling
   margin-right: 15%;
 }
 
-.harrypotter figcaption{
+figcaption.harrypotter {
   color: darkred;
   font-style: italic;
   font-size: 12px;
@@ -87,7 +87,7 @@ Main Body Copy Styling
   margin-bottom: 1%;
 }
 
-.danielradcliffe figcaption{
+figcaption.danielradcliffe {
   color: darkred;
   font-style: italic;
   font-size: 12px;
