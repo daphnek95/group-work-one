@@ -14,6 +14,14 @@ Universal Styling
 
 html{
   scroll-behavior: smooth;
+  background: url(gw1_start_files/images/clouds_background.jpg);
+}
+
+body {
+  background-color: white;
+  width: 85%;
+  display: block;
+  margin: 60px auto;
 }
 
 
@@ -44,7 +52,7 @@ Main Body Copy Styling
   max-height: 400px;
   float: right;
   position: relative;
-  margin-right: 20%;
+  margin-right: 15%;
 }
 
 .body-title{
@@ -68,7 +76,7 @@ Main Body Copy Styling
   max-height: 400px;
   float: right;
   position: relative;
-  margin-right: 20%;
+  margin-right: 15%;
   margin-top: 3%;
   margin-bottom: 1%;
 }
@@ -109,7 +117,7 @@ h1{
 
 .grid-container{
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 4fr 1fr;
 
 }
 
@@ -129,8 +137,14 @@ h1{
     text-shadow: 2px 2px seashell;
 }
 
+.Hedwig img {
+  display: block;
+  margin: auto;
+}
+
 .Hedwig figcaption{
     color: white;
     font-style: italic;
     font-size: 12px;
+    text-align: center;
 }
